@@ -1,12 +1,5 @@
 public class ex14 {
-    /*
-     * João recebeu seu salário de R$ 1500,00 e precisa pagar duas contas (C1=R$
-     * 200,00
-     * e C2=R$120,00). Como as contas estão atrasadas, João terá de pagar multa de
-     * 2% sobre
-     * cada conta. Faça um programa que calcule e mostre quanto restará do salário
-     * do João
-     */
+
     public static void main(String[] args) {
         double salario = 1500.00;
         double C1 = 200.00;

@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/* Faça um programa que leia um número inteiro e apresente o quociente e o resto da
-divisão deste número por 2
- */
 public class ex9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

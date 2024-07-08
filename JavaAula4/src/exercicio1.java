@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-//Faça um programa que leia dois números, calcule e apresente a soma dos quadradosdestes números
 public class exercicio1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

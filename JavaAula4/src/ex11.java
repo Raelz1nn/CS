@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-/*Um restaurante a quilo cobra R$39,00 por quilo de refeição. Escreva um programa
-que leia o peso do prato montado pelo cliente (em quilos) e imprima o valor a pagar. Obs.
-O prato vazio pesa 450 gramas.
- */
 public class ex11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

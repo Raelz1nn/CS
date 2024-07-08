@@ -1,11 +1,5 @@
 import java.util.Scanner;
 
-/* Escreva um programa que receba um horário (horas, minutos e segundos) e
-determine quantos segundos já se passaram desde que o dia começou.
-14) Escreva um programa que receba um horário (horas, minutos e segundos) e
-determine quantos segundos ainda faltam para terminar o dia (considere o dia com 24
-horas).
- */
 public class ex12 {
     public static void main(String[] args) {
         int SEGUNDOS = 24 * 3600;

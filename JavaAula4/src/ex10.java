@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-/*(DESAFIO) Crie um programa que leia um número inteiro que representa a
-quantidade de segundos de um vídeo. O programa deve calcular e apresentar quantas
-horas, minutos e segundos dura este vídeo.
- */
 public class ex10 {
     public static void main(String[] args) {
         final double PRECO = 39.00;
